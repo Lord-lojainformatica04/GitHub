@@ -6,3 +6,4 @@ Slide com imagens dos nossos serviços, equipe e estabelecimento, com chamada pa
 Quem somos, especificando os nossos serviços e disponibilizando  comentários dos nossos clientes com suas opniões sobre a loja.
 Vendas de peças(hardware) tais como acessórios  
 Rodapé informativo com localização da loja(link do maps), contato(link do whatsapp), Regiões onde prestamos serviços(Montes Claros-MG e São Francisco-MG), tipos de entrega (Táxi), email da loja e marca registrada.
+Iniciando!!!!!
