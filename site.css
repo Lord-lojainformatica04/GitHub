@@ -185,7 +185,7 @@ header {
 .slider--control {
     width: 30px;
     height: 30px;
-    background-color: #FFF;
+    background-image:linear-gradient(180deg,#190B52,#30159E,#3812cf, #3b13db,#2C06EB,#2609EB);
     border-radius: 50%;
     overflow: hidden;
     cursor: pointer;
