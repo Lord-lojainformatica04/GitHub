@@ -67,14 +67,14 @@ function toggleMenu() {
 
 
 let pizzaJson = [
-    {id:1, name:'SSD', img:'ssd.jpeg', price:100.00, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
-    {id:2, name:'Placa de Rede', img:'placa de rede.jpeg', price:250.00, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
-    {id:3, name:'Placa de Vídeo', img:'placa de video.jpeg', price:300.00, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
-    {id:4, name:'Placa Mãe', img:'placa mae.jpeg', price:599.99, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
-    {id:5, name:'Processador', img:'processador.jpeg', price:150.00, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
-    {id:6, name:'Memoria Ram', img:'memoria ram.jpeg', price:399.99, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
-    {id:7, name:'Fonte', img:'fonte pc.jpeg', price:299.99, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
-    {id:8, name:'HD Interno', img:'hd interno.jpeg', price:99.99, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
+    {id:1, name:'SSD', img:'ssd.jpg', price:100.00, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
+    {id:2, name:'Placa de Rede', img:'placa de rede.jpg', price:250.00, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
+    {id:3, name:'Placa de Vídeo', img:'placa de video.jpg', price:300.00, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
+    {id:4, name:'Placa Mãe', img:'placa mãe.jpg', price:599.99, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
+    {id:5, name:'Processador', img:'processador.jpg', price:150.00, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
+    {id:6, name:'Memoria Ram', img:'memoria ram.jpg', price:399.99, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
+    {id:7, name:'Fonte', img:'fonte pc.jpg', price:299.99, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
+    {id:8, name:'HD Interno', img:'hd interno.jpg', price:99.99, sizes:['', '', ''], description:'Peças com as melhores qualidades'},
 
 ]
 
