@@ -553,10 +553,11 @@ h1 {
 	margin: 0%;
 	position: inherit;
 	float: left;
+   
 }
 .conteudorpe{
 	
-	margin-top: 30px;
+	margin-top: 20px;
 	margin-bottom: 30px;
 	margin-right: 30px;
 	margin-left: 30px;
@@ -570,11 +571,46 @@ h1 {
 	color: #CCC;
 }
 
+.animation {
 
-
-
-
-
+    animation: alerta 1.5s infinite;
+  
+  }
+  
+ .botao {
+  
+    background: #09a513;
+    color: white;
+    border: 1px solid #09a513;
+    border-radius: 70px;
+    box-shadow: 0 0 0 0 rgba(9, 165, 19, 0.50);
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    line-height: 55px;
+    text-decoration: none;
+    transition: background, padding 500ms ease-in-out;  
+    margin-left: 90%;
+    margin-top: 10px;
+    
+  
+  }
+  
+  @keyframes alerta {
+    0% {
+      transform: scale();
+    }
+    70% {
+      transform: scale();
+      box-shadow: 0 0 0 50px rgba(69, 152, 27, 0);
+    }
+      100% {
+      transform: scale();
+      box-shadow: 0 0 0 0 rgba(69, 152, 27, 0);
+    }
+  }
 
 
 @media (max-width:1000px) {
